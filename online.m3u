@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 group-title="Федеральные",Первый канал
+https://zoneiptvru.netlify.app/1Kanal.m3u8
+#EXTINF:-1 group-title="Федеральные",Россия 1
+https://zoneiptvru.netlify.app/Russia1.m3u8
+#EXTINF:-1 group-title="Федеральные",Матч!
+https://zoneiptvru.netlify.app/Match.m3u8
+#EXTINF:-1 group-title="Федеральные",НТВ
+https://zoneiptvru.netlify.app/NTV.m3u8
+#EXTINF:-1 group-title="Федеральные",Пятый Канал
+https://zoneiptvru.netlify.app/5Kanal.m3u8
+#EXTINF:-1 group-title="Федеральные",Россия К
+https://zoneiptvru.netlify.app/RussiaKultura.m3u8
+#EXTINF:-1 group-title="Федеральные",Россия 24
+https://zoneiptvru.netlify.app/Russia24.m3u8
+#EXTINF:-1 group-title="Федеральные",Карусель
+https://zoneiptvru.netlify.app/Karusel.m3u8
+#EXTINF:-1 group-title="Федеральные",ОТР
+https://zoneiptvru.netlify.app/OTR.m3u8
+#EXTINF:-1 group-title="Федеральные",ТВ Центр
+https://zoneiptvru.netlify.app/TVC.m3u8
+#EXTINF:-1 group-title="Федеральные",РЕН ТВ
+https://zoneiptvru.netlify.app/RenTV.m3u8
+#EXTINF:-1 group-title="Федеральные",Спас
+https://zoneiptvru.netlify.app/Spas.m3u8
+#EXTINF:-1 group-title="Федеральные",СТС
+https://zoneiptvru.netlify.app/STS.m3u8
+#EXTINF:-1 group-title="Федеральные",Домашний
+https://zoneiptvru.netlify.app/Domashnii.m3u8
+#EXTINF:-1 group-title="Федеральные",ТВ-3
+https://zoneiptvru.netlify.app/TV3.m3u8
+#EXTINF:-1 group-title="Федеральные",Пятница
+https://zoneiptvru.netlify.app/Friday.m3u8
+#EXTINF:-1 group-title="Федеральные",Звезда
+https://zoneiptvru.netlify.app/Zvezda.m3u8
+#EXTINF:-1 group-title="Федеральные",Мир
+https://zoneiptvru.netlify.app/Mir.m3u8
+#EXTINF:-1 group-title="Федеральные",ТНТ
+https://zoneiptvru.netlify.app/TNT.m3u8
+#EXTINF:-1 group-title="Федеральные",Муз ТВ
+https://zoneiptvru.netlify.app/MuzTV.m3u8
